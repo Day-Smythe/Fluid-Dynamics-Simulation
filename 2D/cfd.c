@@ -7,7 +7,7 @@
 #define NX           400          /* grid width  */
 #define NY           150          /* grid height */
 #define NSTEPS       4000         /* total iterations */
-#define SAVE_EVERY   25           /* dump a frame every N steps */
+#define SAVE_EVERY   50           /* dump a frame every N steps */
 #define U0           0.10         /* inlet velocity (keep < 0.2) */
 #define TAU          0.60         /* relaxation time -> viscosity */
 #define CYL_R        (NY/8.0)     /* obstacle radius */
